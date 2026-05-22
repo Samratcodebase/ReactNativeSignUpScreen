@@ -19,7 +19,7 @@ Modern signup screen built with React Native and Expo.
 Clone the project
 
 ```bash
-git cloneh ttps://github.com/Samratcodebase/ReactNativeSignUpScreen.git
+git clone https://github.com/Samratcodebase/ReactNativeSignUpScreen.git
 
 Go to the project directory
 
